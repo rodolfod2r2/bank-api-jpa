@@ -1,4 +1,6 @@
-# Bank Mongodb
+# Bank API JPA
+
+Ferramenta de Gerenciamento de Projetos de Software utilizando a metodologia Ágil Scrum e Gamification com JPA
 
 ## Getting started
 
